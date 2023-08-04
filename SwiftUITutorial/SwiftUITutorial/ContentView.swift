@@ -3,7 +3,7 @@
 //  SwiftUITutorial
 //
 //  Created by Jeisson Chacón on 8/4/23.
-//
+//Fichero que es la vista principal
 
 import SwiftUI
 
@@ -13,7 +13,8 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Hello, world!")
+            Text("Hola Mundo!")
+                
         }
         .padding()
     }
